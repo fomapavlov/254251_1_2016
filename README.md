@@ -3,9 +3,9 @@
 [Course syllabus](https://github.com/fomapavlov/254251_1_2016/blob/master/syllabus_59_1_254251.pdf)
 
 ## Slides
-[Introduction to data structures and Python] (https://github.com/fomapavlov/254251_1_2016/blob/master/Data%20Structure%2001.pptx)
+[Introduction to data structures and Python] (https://github.com/fomapavlov/254251_1_2016/blob/master/Data%20Structure%2001.pdf)
 
-[Complexity, stack and queue] (https://github.com/fomapavlov/254251_1_2016/blob/master/Data%20Structure%2002.pptx)
+[Complexity, stack and queue] (https://github.com/fomapavlov/254251_1_2016/blob/master/Data%20Structure%2002.pdf)
 
 ...
 
