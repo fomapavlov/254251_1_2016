@@ -2,6 +2,8 @@
 
 [Course syllabus](https://github.com/fomapavlov/254251_1_2016/blob/master/syllabus_59_1_254251.pdf)
 
+[Current score] (https://github.com/fomapavlov/254251_1_2016/blob/master/quiz1_midterm.pdf)
+
 ## Slides
 [Introduction to data structures and Python] (https://github.com/fomapavlov/254251_1_2016/blob/master/Data%20Structure%2001.pdf)
 
