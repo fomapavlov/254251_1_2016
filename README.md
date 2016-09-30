@@ -16,6 +16,9 @@
 ## Quiz
 [Quiz 1] (https://github.com/fomapavlov/254251_1_2016/tree/master/quiz01)
 
+## Midterm
+[Midterm] (https://github.com/fomapavlov/254251_1_2016/tree/master/midterm)
+
 ## Online resources
 [Problem solving with algorithms and data structures using python] (http://interactivepython.org/runestone/static/pythonds/index.html)
 
